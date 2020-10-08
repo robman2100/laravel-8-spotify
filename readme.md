@@ -4,7 +4,7 @@
     Laravel-Spotify
     <br>
 </h1>
-<h4 align="center">An easy to use Spotify Web API wrapper for Laravel 6 and 7</h4>
+<h4 align="center">An easy to use Spotify Web API wrapper for Laravel 6, 7, and 8</h4>
 <p align="center">
     <a href="https://packagist.org/packages/aerni/laravel-spotify">
         <img src="https://flat.badgen.net/packagist/v/aerni/laravel-spotify" alt="Packagist version">
@@ -44,7 +44,7 @@ The package supports all Spotify Web API endpoints that are accessible with the 
 Install the package using Composer. The package will automatically register itself.
 
 ```bash
-composer require aerni/laravel-spotify
+composer require robman2100/laravel-8-spotify
 ```
 
 Publish the config of the package.
